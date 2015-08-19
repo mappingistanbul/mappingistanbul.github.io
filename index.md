@@ -12,9 +12,9 @@ looking for a less touristic places with little money? also, this map includes m
 
 * Istanbul Modern.
 * Kafka Cafe
-* Kabalci.
+* Kabalci. (soon)
 
 
-## Owners
+## Who?
 
 [Efe](http://twitter.com/efeoge) and [İlgi](http://twitter.com/ilgidonmez).

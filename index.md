@@ -4,7 +4,7 @@ layout: default
 
 *is the hitchhiker's guide to istanbul galaxy.*
 
-looking for a less touristic places with little money? also, this map includes more than best places to eat kebap or where is hagia sophia.
+looking for a less touristic places with little money? also, this map includes more than best place to eat kebap or where is hagia sophia.
 
 "don't panic."
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-is the hitchhiker's guide to istanbul galaxy.
+#is the hitchhiker's guide to istanbul galaxy.
 
 looking for a less touristic places with little money? also, this map includes more than where is hagia sophia or best places to eat kebap.
 
@@ -15,6 +15,6 @@ looking for a less touristic places with little money? also, this map includes m
 * Kabalci. (soon)
 
 
-## Who?
+### Who?
 
 [Efe](http://twitter.com/efeoge) and [İlgi](http://twitter.com/ilgidonmez).

@@ -4,9 +4,6 @@ layout: default
 
 is the hitchhiker's guide to istanbul galaxy.
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
 Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
 ## Solo is useful if...
@@ -18,19 +15,11 @@ Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ell
 
 This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
 
-## Usage
+### Where to Buy?
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
-
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
-
-### Other Files
-
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+* Istanbul Modern.
+* Kafka Cafe
+* Kabalci.
 
 ### Don't use `<h1>` tags
 

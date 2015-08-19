@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[mappingistanbul](http://mappingistanbul.com) is the hitchhiker's guide to ***istanbul*** galaxy.
+is the hitchhiker's guide to istanbul galaxy.
 
 <iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>

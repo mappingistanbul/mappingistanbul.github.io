@@ -4,7 +4,7 @@ layout: default
 
 is the hitchhiker's guide to istanbul galaxy.
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+looking for a less touristic places with little money? actually, we don't eat döner or kebap everyday.
 
 ### Where to Buy?
 

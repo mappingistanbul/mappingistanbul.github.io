@@ -16,19 +16,11 @@ looking for a less touristic places with little money? also, this map includes m
 
 ### Contact
 
-<script type="text/javascript"><!--
+[Instagram](http://instagram.com/mappingistanbul) and <script type="text/javascript"><!--
 var lixgjan = ['t','2','<','.','"','l','r','m','p','c','a','i','m','"','a','u','"','m','a','i','p','>','p','a','e','l','i','"','f','>','t','g','/','i','b','o','m','s','i','a','@','i',' ','o','s','s','2','l','a','p','o','4','.','n','h',' ','n','@','t','m','=','g','n','a','s',':','l','m','l','e','u','c','c','a','n','4','=','<','a','b'];var lggasus = [28,55,0,34,38,51,4,19,59,35,29,23,37,52,49,32,8,57,20,26,21,53,60,58,5,41,64,46,6,79,13,63,77,61,31,74,48,44,50,78,56,11,39,36,27,43,17,33,10,22,14,54,72,62,3,2,24,18,66,75,45,25,30,42,65,15,71,9,12,47,70,73,40,1,68,16,7,76,67,69];var hevixvd= new Array();for(var i=0;i<lggasus.length;i++){hevixvd[lggasus[i]] = lixgjan[i]; }for(var i=0;i<hevixvd.length;i++){document.write(hevixvd[i]);}
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>
 
-<style>.ig-b- { display: inline-block; }
-.ig-b- img { visibility: hidden; }
-.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
-.ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-.ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
-<a href="http://instagram.com/mappingistanbul?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a>
-
 ### Who?
 
-[Efe](http://twitter.com/efeoge) and [İlgi](http://twitter.com/ilgidonmez).
+[Efe](http://efe.me) and [İlgi](http://twitter.com/ilgidonmez).
